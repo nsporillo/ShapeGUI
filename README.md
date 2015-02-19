@@ -8,3 +8,6 @@ If you uncomment the main method in [ShapeTester.java](https://github.com/nspori
 
 
 This repository was created so my source is easily browsable by anyone.
+
+![shpere](https://cloud.githubusercontent.com/assets/1480197/6271577/871740bc-b82f-11e4-8d7c-adedd9200843.png)
+
